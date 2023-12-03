@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.BookStoreHomePage {
+    background-color: black;
+    height: 100vh;
+    width: 40vw;
+    padding: 20px;
+}
+
+.BookStoreHomePageHeading1 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: bree serif;
+}
+
+.card1 {
+    background-color: #e6f6ff;
+    color: black;
+    height: 30vh;
+    font-family: bree Serif;
+    border-radius: 20px;
+}
+
+.ImageOfKalamGAru {
+    width: 20vw;
+    height: 30vh;
+    border-image: 22px;
+}
+
+.Wings_of_Fire {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.paraofwingsoffire {
+    font-size: 12px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.paraofauthor {
+    font-size: 10px;
+}
+
+.innercardofKalamGaru {
+    padding: 20px;
+}
+
+.Lower-hedding {
+    color: #ffffff;
+    font-size: 26px;
+    font-family: Roboto;
+
+}
+
+.lower-cards {}
+
+.image2 {
+    height: 20vh;
+    width: 10vw;
+}
+
+.under-card {
+    color: #ffffff;
+    font-family: bree serif;
+    padding: 10px;
+}
+
+.under-card-head {
+    font-size: 18px;
+}
+
+.under-card-para {
+    font-size: 10px;
+    color: #9aa5b1;
+}
+
+
+
+
+
+
+.wings {
+    padding: 20px;
+    width: 40vw;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+
+.subfolderimage {
+    height: 50vh;
+    width: 22vw;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.subfolderimageheadding {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.subfoldermainpara {
+    font-size: 10px;
+    text-align: left;
+    color: #9aa5b1;
+    font-weight: bold;
+}
+
+.back {
+    border-radius: 5px;
+    background-color: orange;
+    color: black;
+    text-align: right;
+}

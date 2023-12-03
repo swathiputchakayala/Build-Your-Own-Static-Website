@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 30vh;
+    width: 50vw;
+    padding: 10px;
+}
+
+.he {
+    font-family: Roboto;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.home-bottom {
+    width: 50vw;
+    padding: 10px;
+}
+
+.card1 {
+    padding: 15px;
+}
+
+.image1 {
+    height: 15vh;
+}
+
+.name {
+    color: #151765;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.epi {
+    color: #5a7184;
+    font-family: Roboto;
+    text-align: center;
+    font-size: 15px;
+}
+
+.puri-card1 {
+    background-color: #151765;
+    text-align: left;
+    width: 45vw;
+    padding: 20px;
+    height: 22vh;
+
+}
+
+.puri-inner-card1 {
+    width: 40vw;
+    text-align: left;
+}
+
+.p-para {
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 12px;
+}
+
+.p-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+}
+
+.Puri-page {
+    width: 40vw;
+    text-align: right;
+}
+
+.Puri-card2 {
+    background-color: #ffffff;
+    text-align: left;
+    width: 40vw;
+    padding: 20px;
+    margin: 20px;
+    height: 22vh;
+}
+
+.set {
+    width: 50vw;
+    text-align: left;
+}
+
+.puri-card2 {
+    padding: 25px;
+    margin: 20px;
+    text-align: left;
+}
+
+.p-para2 {
+    color: #5a7184;
+    text-align: left;
+    font-family: Roboto;
+    width: 20vw;
+    font-size: 12px;
+}
+
+.p-head2 {
+    color: #151765;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+}
+
+.btn {
+    border-radius: 20px;
+    background-color: #151765;
+    color: #ffffff;
+    width: 90px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.Tedx-card1 {
+    background-color: #151765;
+    text-align: left;
+    width: 45vw;
+    padding: 20px;
+    height: 22vh;
+
+}
+
+.Tedx-inner-card1 {
+    width: 40vw;
+    text-align: left;
+}
+
+.t-para {
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 12px;
+}
+
+.t-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+}
+
+.Tedx-page {
+    width: 40vw;
+    text-align: right;
+}
+
+.Tedx-card2 {
+    background-color: #ffffff;
+    text-align: left;
+    width: 40vw;
+    padding: 10px;
+    margin: 10px;
+}
+
+.set {
+    width: 50vw;
+    text-align: left;
+}
+
+.Tedx-card2 {
+    padding: 25px;
+    margin: 20px;
+    text-align: left;
+}
+
+.t-para2 {
+    color: #5a7184;
+    text-align: left;
+    font-family: Roboto;
+    width: 20vw;
+    font-size: 12px;
+}
+
+.t-head2 {
+    color: #151765;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+}
+
+.Sadhguru-card1 {
+    background-color: #151765;
+    text-align: left;
+    width: 45vw;
+    padding: 20px;
+    height: 22vh;
+
+}
+
+.Sadhguru-inner-card1 {
+    width: 40vw;
+    text-align: left;
+}
+
+.s-para {
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 12px;
+}
+
+.s-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+}
+
+.Sadhguru-page {
+    width: 40vw;
+    text-align: right;
+    margin: 20px;
+}
+
+.Sadhguru-card2 {
+    background-color: #ffffff;
+    text-align: left;
+    width: 40vw;
+    padding: 10px;
+    margin: 10px;
+}
+
+.set {
+    width: 50vw;
+    text-align: left;
+}
+
+.Sadhguru-card2 {
+    padding: 25px;
+    text-align: left;
+}
+
+.s-para2 {
+    color: #5a7184;
+    text-align: left;
+    font-family: Roboto;
+    width: 20vw;
+    font-size: 12px;
+}
+
+.s-head2 {
+    color: #151765;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+}
+
+.Jay-card1 {
+    background-color: #151765;
+    text-align: left;
+    width: 45vw;
+    padding: 20px;
+    height: 22vh;
+
+}
+
+.Jay-inner-card1 {
+    width: 40vw;
+    text-align: left;
+}
+
+.j-para {
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 12px;
+}
+
+.j-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+}
+
+.Jay-page {
+    width: 40vw;
+    text-align: right;
+    margin: 20px;
+}
+
+.Jay-card2 {
+    background-color: #ffffff;
+    text-align: left;
+    width: 40vw;
+    padding: 10px;
+    margin: 10px;
+}
+
+.set {
+    width: 50vw;
+    text-align: left;
+}
+
+.Jay-card2 {
+    padding: 15px;
+    margin: 20px;
+    text-align: left;
+}
+
+.j-para2 {
+    color: #5a7184;
+    text-align: left;
+    font-family: Roboto;
+    width: 20vw;
+    font-size: 12px;
+}
+
+.j-head2 {
+    color: #151765;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+}
