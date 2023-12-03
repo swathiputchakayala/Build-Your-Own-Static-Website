@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.head {
+    text-align: left;
+    font-family: Roboto;
+    color: #323f4b;
+
+}
+
+.para {
+    font-family: Roboto;
+    text-align: left;
+    color: #7b8794;
+}
+
+.para2 {
+    font-family: Roboto;
+    text-align: left;
+    color: #7b8794;
+    font-size: 14px;
+}
+
+.button {
+    background-color: #ffffff;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-size: 12px;
+}
+
+.card {
+    background-color: #ffffff;
+    text-align: center;
+    height: 60vh;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 30px;
+}

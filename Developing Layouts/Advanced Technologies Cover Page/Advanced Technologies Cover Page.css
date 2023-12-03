@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main {
+    text-align: left;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.head {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 30px;
+}
+
+.para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.button1 {
+    background-color: #5752ab;
+    border-color: #d7dfe9;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    font-size: 12px;
+}
+
+.button2 {
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    font-family: Roboto;
+    color: #171f46;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    font-size: 12px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 20vh;
+    padding: 20px;
+}

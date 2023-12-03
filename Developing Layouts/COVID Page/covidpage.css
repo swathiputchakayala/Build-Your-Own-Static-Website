@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.hi {
+    height: 20vh;
+    width: 55vh;
+    font-weight: 500;
+
+}
+
+.top {
+    text-align: left;
+    font-size: 22px;
+    width: 250px;
+    font-family: Roboto;
+
+}
+
+.image1 {
+    height: 100px;
+}
+
+.card1 {
+    background-color: #0967d219;
+    width: 55vh;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    margin: 15px;
+    height: 20vh;
+}
+
+.inner {
+    margin: 10px;
+}
+
+.image2 {
+    height: 90px;
+    padding: 15px;
+}
+
+.head1 {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.para1 {
+    font-size: 13px;
+    font-family: Roboto;
+    color: #707070;
+}
+
+.head2 {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #323f4b;
+    width: 55vh;
+}
+
+.image-bottom {
+    height: 40px;
+}
+
+.mini-card1 {
+    background-color: #3ebd93;
+    width: 75px;
+    height: 80px;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 15px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.mini-card2 {
+    background-color: #e668a7;
+    width: 75px;
+    height: 80px;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 15px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.mini-card3 {
+    text-align: center;
+    background-color: #a368fc;
+    width: 75px;
+    height: 80px;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 15px;
+    color: white;
+    font-size: 12px;
+}
+
+.hello {
+    width: 55vh;
+}
+
+.headdd {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.paraaa {
+    font-family: Roboto;
+    font-size: 13px;
+    width: 290px;
+    color: #707070;
+}
+
+.bottom-image {
+    margin: 20px;
+}
+
+.card2 {
+    background-color: #e12d3919;
+    width: 55vh;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.all {
+    margin: 10px;
+    border-color: #0967d219;
+    border-width: 8px;
+}
