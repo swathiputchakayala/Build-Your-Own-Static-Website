@@ -9,7 +9,7 @@ body {
     background-image: url('https://your-background-image-url.jpg');
     background-size: cover;
     height: 100vh;
-    color: white;
+    color: black;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -29,7 +29,7 @@ body {
 
 /* Favourite Places Style */
 .favourite-places-bg-container {
-    background-color: #f8f9fa;
+    background-color: rgb(95, 202, 229);
     padding: 50px;
     text-align: center;
 }
@@ -54,7 +54,7 @@ body {
 
 .favourite-place-card-heading {
     font-size: 1.5em;
-    color: #343a40;
+    color: #3b4c5c;
 }
 
 .favourite-place-card-description {
