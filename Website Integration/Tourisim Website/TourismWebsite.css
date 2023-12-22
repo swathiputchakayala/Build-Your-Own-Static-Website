@@ -12,10 +12,15 @@ body {
     color: white;
     text-align: center;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .main-heading {
     font-size: 3em;
+    margin-bottom: 20px;
 }
 
 .paragraph {
